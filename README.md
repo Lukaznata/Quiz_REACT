@@ -29,7 +29,7 @@ Este projeto é um aplicativo de Quiz desenvolvido em React que testa os conheci
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Lukaznata/Quiz_REACT/tree/main
    ```
 2. **Instale as Dependências**:
    ```bash
