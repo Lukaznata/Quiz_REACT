@@ -1,4 +1,4 @@
-# Quiz_REACT
+# React--Quiz
 
 ## Link para acessar
 https://quiz-lukaznata.vercel.app/
