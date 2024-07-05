@@ -1,6 +1,7 @@
 # React--Quiz
 
 ## Link Para Acessar
+https://quiz-lukaznata.vercel.app/
 
 
 Este é um projeto de quiz desenvolvido em React, que testa seus conhecimentos em HTML, CSS e JavaScript.
